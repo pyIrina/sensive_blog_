@@ -1,0 +1,8 @@
+environs.env
+/venv/*
+.idea
+/media/*
+db.sqlite3
+/blog/__pycache__/*
+/sensive_blog/__pycache__/*
+/blog/migrations/__pycache__/*
